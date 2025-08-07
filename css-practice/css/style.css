@@ -1,0 +1,15 @@
+/* テキストの色とサイズ */
+h1 {
+  color: darkblue;
+  font-size: 36px;
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+}
+
+/* 背景色の設定 */
+body {
+  background-color: #f0f8ff;
+}
